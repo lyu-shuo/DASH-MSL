@@ -3,6 +3,8 @@ DASH-MSL: Unveiling Vulnerabilities of Multi-Client Split learning to Poisoning 
 
 ![Image](https://github.com/user-attachments/assets/3b42b821-21f2-48ca-b295-79ce54b2aa52)
 ## Code
-This repository contains all the code needed to run the Defed. 
+This repository contains all the code needed to run the Dash-MSL. 
 
 The implementation is based on **Pytorch**.
+
+
